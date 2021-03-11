@@ -1,5 +1,5 @@
 <html>
-  <head><tile> Test PHP </title> </head>
+  <head><title> Test PHP </title> </head>
   <body>
     <form action="process.php" post>
         <input type="text">
